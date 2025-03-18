@@ -11,15 +11,9 @@
     "preview": "vite preview",
     "vercel-dev": "node devWithVercel.mjs"
   },
-  "dependencies": {
-    "@google-cloud/local-auth": "2.1.0",
-    "@solidjs/testing-library": "^0.8.7",
-    "blob-util": "^2.0.2",
-    "gapi-script": "^1.2.0",
-    "googleapis": "105",
+  "dependencies": {   
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-google-login": "^5.2.2",
     "react-router-dom": "^6.21.3",
     "use-fireproof": "^0.20.0-dev-preview-54"
   },
